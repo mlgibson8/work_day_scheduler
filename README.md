@@ -12,6 +12,7 @@ week 5 project
 https://mlgibson8.github.io/work_day_scheduler
 
 
-![screenshot]
-![repository]
-![live!]
+![screenshot] (https://github.com/mlgibson8/work_day_scheduler/blob/main/Assets/work_day.png)
+![repository] (https://github.com/mlgibson8/work_day_scheduler)
+![live!] (https://mlgibson8.github.io/work_day_scheduler
+)
