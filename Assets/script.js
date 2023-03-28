@@ -1,6 +1,6 @@
 
 $(document).ready(function () {
-    let NowMoment = moment().format("'MMMM Do YYYY, h:mm:ss a'");
+    let NowMoment = dayjs().format('MMMM-DD-YYYY:  hh:mm:ss A');
     let displayDate = document.getElementById("currentDay");
     displayDate.innerHTML = NowMoment;
     let currentHour = moment().format("HH");
